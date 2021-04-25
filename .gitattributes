@@ -1,2 +1,7 @@
-* text eol=lf
-* text eol=lf
+
+*.jpg
+*.item
+*0*
+*.pl
+*.data
+*.csv
